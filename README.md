@@ -1,6 +1,6 @@
 # StokAppProject
 <h3>
-Bu Proje bir E-ticaret sitesinin Stock Kontrolünü yönetmek için tasarlanmıştır.
+Bu Proje bir E-ticaret sitesinin Stock Kontrolünü yönetmek için ERCAN KESKİN ile Beraber tasarlanmıştır.
 Projemizdemizde ;
 
 -Kategori 
@@ -19,13 +19,14 @@ Projemizdemizde ;
 
 <h3>
 # StokAppProject
-This Project is designed to manage the Stock Control of an E-commerce site. In our project;
+This Project is designed to manage the Stock Control of an E-commerce site with ERCAN KESKİN. 
+In our project;
 
 -Category
--Company Information 
+-Firm Information 
 -Brand Information
 -Product information
--Shopping Information
+-Purchases Information
 -Sales Knowledgeable 
 -User Information.
 -Relationships between tables "ForeigneKey" were established. 
