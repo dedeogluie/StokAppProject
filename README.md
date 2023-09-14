@@ -1,6 +1,6 @@
 # StokAppProject
 <h3>
-Bu Proje bir E-ticaret sitesinin Stock Kontrolünü yönetmek için ERCAN KESKİN ile Beraber tasarlanmıştır.
+Bu Proje bir E-ticaret sitesinin Stock Kontrolünü yönetmek için ekip arkadaşım, Ercan KESKİN ile beraber tasarlanmıştır.
 Projemizdemizde ;
 
 -Kategori 
@@ -19,7 +19,7 @@ Projemizdemizde ;
 
 <h3>
 # StokAppProject
-This Project is designed to manage the Stock Control of an E-commerce site with ERCAN KESKİN. 
+This Project was designed together with my teammate, Ercan KESKİN, to manage the Stock Control of an E-commerce site. 
 In our project;
 
 -Category
