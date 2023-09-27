@@ -1,3 +1,16 @@
+Projenin canlıya alınmış hali: <a href="https://stockappproject.pythonanywhere.com/" target="_blank">Giriş Paneli</a>
+----------------------
+kullanıcı adı: admin1
+şife:12345
+----------------------   
+
+İngilizce kısmına 
+
+To access the Live of the Project:  <a href="https://stockappproject.pythonanywhere.com/" target="_blank">User Panel</a>
+----------------------
+super user: admin1
+password:12345
+----------------------
 # StokAppProject
 <h3>
 Bu Proje bir E-ticaret sitesinin Stock Kontrolünü yönetmek için ekip arkadaşım, Ercan KESKİN ile beraber tasarlanmıştır.
